@@ -10,7 +10,7 @@ I am working on:
  
  To work on this project just run this command:
  
-...
-	shell
-...     $
+"""
+	git remote add origin https://github.com/argruber/planets.git     
+"""
      
