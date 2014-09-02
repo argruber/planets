@@ -6,11 +6,12 @@ I am working on:
  
  To Do:
  - Saturn 
- - Jupiter 
+ - Jupiter
+ - Pluto 
  
  To work on this project just run this command:
+´´´shell
+ $ git clone https://github.com/argruber/planets.git
+´´´
  
-...
-	shell
-...     $
      
